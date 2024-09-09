@@ -1,0 +1,7 @@
+.ToolIcon {
+    margin-bottom: 0 !important;
+}
+.excalidraw .dropdown-menu{
+    display: unset !important;
+    padding: unset !important;
+}
